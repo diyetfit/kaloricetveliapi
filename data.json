@@ -1,0 +1,512 @@
+[
+    {
+        "id":1,
+        "name":"Beyaz Ekmek",
+        "img":"https://raw.githubusercontent.com/diyetfit/kcapiimg/master/img/beyaz_ekmek.jpg",
+        "gm":"gr",
+        "calorie":"2.38",
+        "carb":"0.4391",
+        "prot":"0.1066",
+        "fat":"0.0215",
+        "fibre":"0.092",
+        "calcium":"6.84",
+        "cholesterol":"0",
+        "vitc":"0",
+        "vita":"0.04",
+        "iron":"0.0489",
+        "sodium":"4.78",
+        "potasium":"1.27",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"İnce Dilim",
+                "gram":"25"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Yarım Ekmek",
+                "gram":"150"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Tam Buğday Ekmeği",
+        "img":"../../assets/img/tam_bugday_ekmegi.jpg",
+        "gm":"gr",
+        "calorie":"2.52",
+        "carb":"0.4271",
+        "prot":"0.1245",
+        "fat":"0.035",
+        "fibre":"0.06",
+        "calcium":"1.61",
+        "cholesterol":"0",
+        "vitc":"0",
+        "vita":"0.03",
+        "iron":"0.0247",
+        "sodium":"4.55",
+        "potasium":"2.54",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"İnce Dilim",
+                "gram":"25"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Yarım Ekmek",
+                "gram":"150"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"Muz",
+        "img":"../../assets/img/muz.jpg",
+        "gm":"gr",
+        "calorie":"0.89",
+        "carb":"0.2284",
+        "prot":"0.0109",
+        "fat":"0.0033",
+        "fibre":"0.026",
+        "calcium":"0.05",
+        "cholesterol":"0",
+        "vitc":"0.087",
+        "vita":"0.64",
+        "iron":"0.0026",
+        "sodium":"0.01",
+        "potasium":"3.58",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Adet(Orta)",
+                "gram":"170"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Adet(Küçük)",
+                "gram":"90"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Brokoli",
+        "img":"../../assets/img/brokoli.jpg",
+        "gm":"gr",
+        "calorie":"0.26",
+        "carb":"0.0251",
+        "prot":"0.033",
+        "fat":"0.002",
+        "fibre":"0.03",
+        "calcium":"1.05",
+        "cholesterol":"0",
+        "vitc":"1.15",
+        "vita":"1.43",
+        "iron":"0.013",
+        "sodium":"0.18",
+        "potasium":"3.73",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Porsiyon(Orta)",
+                "gram":"150"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Kase(Orta)",
+                "gram":"100"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"Coca-Cola",
+        "img":"../../assets/img/coca_cola.jpg",
+        "gm":"ml",
+        "calorie":"0.45",
+        "carb":"0.112",
+        "sugar":"0.112",
+        "prot":"",
+        "fat":"",
+        "fibre":"",
+        "calcium":"",
+        "cholesterol":"",
+        "vitc":"",
+        "vita":"",
+        "iron":"",
+        "sodium":"",
+        "potasium":"",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Kutu(330 ml)",
+                "gram":"330"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Su Bardağı",
+                "gram":"200"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Namet Hindi Füme",
+        "img":"../../assets/img/namet_hindi_fume_7_24.jpg",
+        "gm":"gr",
+        "calorie":"0.87",
+        "carb":"0.0049",
+        "sugar":"",
+        "prot":"0.1733",
+        "fat":"0.0175",
+        "fibre":"",
+        "calcium":"",
+        "cholesterol":"",
+        "vitc":"",
+        "vita":"",
+        "iron":"",
+        "sodium":"",
+        "potasium":"",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Dilim",
+                "gram":"10"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Paket",
+                "gram":"60"
+            },
+            {
+                "i":3,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"Hamburger",
+        "img":"../../assets/img/hamburger.jpg",
+        "gm":"gr",
+        "unhealthy":"true",
+        "exercise":"Hamburgeri",
+        "calorie":"1.65",
+        "carb":"0.1988",
+        "sugar":"",
+        "prot":"0.0702",
+        "fat":"0.0612",
+        "fibre":"0.0304",
+        "calcium":"0.2528",
+        "cholesterol":"0.2775",
+        "vitc":"0.0603",
+        "vita":"0.6312",
+        "iron":"0.0132",
+        "sodium":"1.3448",
+        "potasium":"1.7359",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Adet(Orta)",
+                "gram":"190"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"Lahmacun",
+        "img":"../../assets/img/lahmacun.jpg",
+        "gm":"gr",
+        "unhealthy":"true",
+        "exercise":"Lahmacunu",
+        "calorie":"1.48",
+        "carb":"0.2151",
+        "sugar":"",
+        "prot":"0.065",
+        "fat":"0.037",
+        "fibre":"0.0191",
+        "calcium":"0.2103",
+        "cholesterol":"0.0969",
+        "vitc":"0.1785",
+        "vita":"0.6152",
+        "iron":"0.0119",
+        "sodium":"1.788",
+        "potasium":"1.9752",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Adet(Orta)",
+                "gram":"120"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Porsiyon(Küçük)",
+                "gram":"80"
+            },
+            {
+                "i":3,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"Mısır (Pişmiş)",
+        "img":"../../assets/img/misir.jpg",
+        "gm":"gr",
+        "calorie":"0.96",
+        "carb":"0.2098",
+        "sugar":"",
+        "prot":"0.0341",
+        "fat":"0.015",
+        "fibre":"0.024",
+        "calcium":"0.06",
+        "cholesterol":"0",
+        "vitc":"0",
+        "vita":"0.65",
+        "iron":"0.00588",
+        "sodium":"0.02",
+        "potasium":"1.23",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Koçan",
+                "gram":"100"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Yarım Koçan",
+                "gram":"50"
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name":"Limon",
+        "img":"../../assets/img/limon.jpg",
+        "gm":"gr",
+        "calorie":"0.43",
+        "carb":"0.0873",
+        "sugar":"",
+        "prot":"0.0044",
+        "fat":"0.0036",
+        "fibre":"0.0141",
+        "calcium":"0.34",
+        "cholesterol":"0",
+        "vitc":"0.441",
+        "vita":"0.03",
+        "iron":"0.0011",
+        "sodium":"0.03",
+        "potasium":"1.57",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Adet(Orta)",
+                "gram":"100"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Yarım(Orta)",
+                "gram":"50"
+            }
+        ]
+    },
+    {
+        "id":11,
+        "name":"Çilek",
+        "img":"https://raw.githubusercontent.com/diyetfit/kcapiimg/master/img/cilek.jpg",
+        "gm":"gr",
+        "calorie": "0.32",
+        "carb": "0.0768",
+        "sugar": "0",
+        "prot": "0.0067",
+        "fat": "0.003",
+        "fibre": "0.02",
+        "calcium": "0.16",
+        "cholesterol": "0",
+        "vitc": "0.588",
+        "vita": "0.12",
+        "iron": "0.0040999999999999995",
+        "sodium": "0.01",
+        "potasium": "1.53",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Kase(Orta)",
+                "gram":"144"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Adet(Orta)",
+                "gram":"12"
+            },
+            {
+                "i":3,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    },
+    {
+        "id":12,
+        "name":"Elma",
+        "img":"../../assets/img/elma.jpg",
+        "gm":"gr",
+        "calorie": "0.52",
+        "carb": "0.1381",
+        "sugar": "0",
+        "prot": "0.0026",
+        "fat": "0.0017",
+        "fibre": "0.024",
+        "calcium": "0.06",
+        "cholesterol": "0",
+        "vitc": "0.046",
+        "vita": "0.54",
+        "iron": "0.0012",
+        "sodium": "0.01",
+        "potasium": "1.07",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Adet(Küçük)",
+                "gram":"90"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Adet(Orta)",
+                "gram":"100"
+            },
+            {
+                "i":3,
+                "selected":"false",
+                "title":"Porsiyon(Orta)",
+                "gram":"120"
+            },
+            {
+                "i":4,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    },
+    {
+        "id":13,
+        "name":"Ayran",
+        "img":"../../assets/img/ayran.jpg",
+        "gm":"ml",
+        "unhealthy": "false",
+        "exercise": "",
+        "calorie": "0.5",
+        "carb": "0.0458",
+        "sugar": "0",
+        "prot": "0.0208",
+        "fat": "0.025",
+        "sfat": "0",
+        "fibre": "0",
+        "calcium": "0.62",
+        "cholesterol": "0.12",
+        "vitc": "0",
+        "vita": "0",
+        "iron": "0",
+        "sodium": "3.12",
+        "potasium": "0",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Su Bardağı",
+                "gram":"200"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Kutu(Küçük)",
+                "gram":"225"
+            },
+            {
+                "i":3,
+                "selected":"false",
+                "title":"Kutu(Büyük)",
+                "gram":"300"
+            },
+            {
+                "i":4,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Limonata",
+        "img": "../../assets/img/limonata.jpg",
+        "gm": "ml",
+        "unhealthy": "false",
+        "exercise": "",
+        "calorie": "0.366",
+        "carb": "0.07345",
+        "sugar": "0",
+        "prot": "0.0011799999999999998",
+        "fat": "0.00101",
+        "sfat": "0",
+        "fibre": "0.00219",
+        "calcium": "0.06132",
+        "cholesterol": "0",
+        "vitc": "0.08928",
+        "vita": "0.00505",
+        "iron": "0.00106",
+        "sodium": "0.01348",
+        "potasium": "0.25235",
+        "birim":[
+            {
+                "i":1,
+                "selected":"true",
+                "title":"Su Bardağı",
+                "gram":"200"
+            },
+            {
+                "i":2,
+                "selected":"false",
+                "title":"Gram",
+                "gram":"1"
+            }
+        ]
+    }
+]
