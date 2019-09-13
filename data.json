@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"Beyaz Ekmek",
-        "img":"https://raw.githubusercontent.com/diyetfit/kcapiimg/master/img/beyaz_ekmek.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/beyaz_ekmek.jpg",
         "gm":"gr",
         "calorie":"2.38",
         "carb":"0.4391",
@@ -34,7 +34,7 @@
     {
         "id":2,
         "name":"Tam Buğday Ekmeği",
-        "img":"../../assets/img/tam_bugday_ekmegi.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/tam_bugday_ekmegi.jpg",
         "gm":"gr",
         "calorie":"2.52",
         "carb":"0.4271",
@@ -66,7 +66,7 @@
     {
         "id":3,
         "name":"Muz",
-        "img":"../../assets/img/muz.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/muz.jpg",
         "gm":"gr",
         "calorie":"0.89",
         "carb":"0.2284",
@@ -98,7 +98,7 @@
     {
         "id":4,
         "name":"Brokoli",
-        "img":"../../assets/img/brokoli.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/brokoli.jpg",
         "gm":"gr",
         "calorie":"0.26",
         "carb":"0.0251",
@@ -130,7 +130,7 @@
     {
         "id":5,
         "name":"Coca-Cola",
-        "img":"../../assets/img/coca_cola.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/coca_cola.jpg",
         "gm":"ml",
         "calorie":"0.45",
         "carb":"0.112",
@@ -163,7 +163,7 @@
     {
         "id":6,
         "name":"Namet Hindi Füme",
-        "img":"../../assets/img/namet_hindi_fume_7_24.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/namet_hindi_fume_7_24.jpg",
         "gm":"gr",
         "calorie":"0.87",
         "carb":"0.0049",
@@ -202,7 +202,7 @@
     {
         "id":7,
         "name":"Hamburger",
-        "img":"../../assets/img/hamburger.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/hamburger.jpg",
         "gm":"gr",
         "unhealthy":"true",
         "exercise":"Hamburgeri",
@@ -237,7 +237,7 @@
     {
         "id":8,
         "name":"Lahmacun",
-        "img":"../../assets/img/lahmacun.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/lahmacun.jpg",
         "gm":"gr",
         "unhealthy":"true",
         "exercise":"Lahmacunu",
@@ -278,7 +278,7 @@
     {
         "id":9,
         "name":"Mısır (Pişmiş)",
-        "img":"../../assets/img/misir.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/img/misir.jpg",
         "gm":"gr",
         "calorie":"0.96",
         "carb":"0.2098",
@@ -311,7 +311,7 @@
     {
         "id":10,
         "name":"Limon",
-        "img":"../../assets/img/limon.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/limon.jpg",
         "gm":"gr",
         "calorie":"0.43",
         "carb":"0.0873",
@@ -344,7 +344,7 @@
     {
         "id":11,
         "name":"Çilek",
-        "img":"https://raw.githubusercontent.com/diyetfit/kcapiimg/master/img/cilek.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/cilek.jpg",
         "gm":"gr",
         "calorie": "0.32",
         "carb": "0.0768",
@@ -383,7 +383,7 @@
     {
         "id":12,
         "name":"Elma",
-        "img":"../../assets/img/elma.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/elma.jpg",
         "gm":"gr",
         "calorie": "0.52",
         "carb": "0.1381",
@@ -428,7 +428,7 @@
     {
         "id":13,
         "name":"Ayran",
-        "img":"../../assets/img/ayran.jpg",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/ayran.jpg",
         "gm":"ml",
         "unhealthy": "false",
         "exercise": "",
@@ -476,7 +476,7 @@
     {
         "id": 14,
         "name": "Limonata",
-        "img": "../../assets/img/limonata.jpg",
+        "img": "https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/limonata.jpg",
         "gm": "ml",
         "unhealthy": "false",
         "exercise": "",
