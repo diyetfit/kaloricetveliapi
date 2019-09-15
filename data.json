@@ -428,7 +428,7 @@
     {
         "id":13,
         "name":"Ayran",
-        "img":"0",
+        "img":"",
         "gm":"ml",
         "unhealthy": "false",
         "exercise": "",
