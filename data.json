@@ -383,7 +383,7 @@
     {
         "id":12,
         "name":"Elma",
-        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/elma.jpg",
+        "img":"",
         "gm":"gr",
         "calorie": "0.52",
         "carb": "0.1381",
