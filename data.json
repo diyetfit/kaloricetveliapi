@@ -428,7 +428,7 @@
     {
         "id":13,
         "name":"Ayran",
-        "img":"",
+        "img":"https://raw.githubusercontent.com/diyetfit/kaloricetveliapi/master/img/ayran.jpg",
         "gm":"ml",
         "unhealthy": "false",
         "exercise": "",
