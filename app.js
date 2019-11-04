@@ -22,7 +22,7 @@ app.get("/units", (req, res) => {
       page = 0;
       limit = 5;
    }
-   
+
    let startIndex = page * limit
    let endIndex = (page + 1) * limit
 
@@ -30,6 +30,38 @@ app.get("/units", (req, res) => {
    res.json(resultIndex);
 });
 
+
+app.get("/unitss", (req, res) => {
+   let page = parseInt(req.query.page)
+   let limit = parseInt(req.query.limit)
+
+   if(!page && !limit){
+      page = 1;
+      limit = 5;
+   }
+   
+   let startIndex = (page -1) * limit
+   let endIndex = page * limit
+
+   let results = {} 
+   console.log(data.length);
+   if(endIndex < data.length){
+   results.next = {
+      page : page + 1,
+      limit : limit
+   }
+   }
+
+   if(startIndex > 0){
+   results.previous = {
+      page : page - 1,
+      limit : limit
+   }
+}
+
+   results.results = data.slice(startIndex,endIndex)
+   res.json(results);
+});
 
 app.get("/units/:id", (req, res) => {
    const itemId = req.params.id;
