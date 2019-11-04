@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     res.end('Server running')
 })
 
-app.get("/units", (req, res) => {
+/* app.get("/units", (req, res) => {
    let page = parseInt(req.query.page)
    let limit = parseInt(req.query.limit)
 
@@ -28,10 +28,10 @@ app.get("/units", (req, res) => {
 
    let resultIndex = data.slice(startIndex,endIndex)
    res.json(resultIndex);
-});
+}); */
 
 
-app.get("/unitss", (req, res) => {
+app.get("/units", (req, res) => {
    let page = parseInt(req.query.page)
    let limit = parseInt(req.query.limit)
 
