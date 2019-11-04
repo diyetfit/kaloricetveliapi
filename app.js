@@ -15,13 +15,18 @@ app.get('/', (req, res) => {
 })
 
 app.get("/units", (req, res) => {
-   const page = parseInt(req.query.page)
-   const limit = parseInt(req.query.limit)
+   let page = parseInt(req.query.page)
+   let limit = parseInt(req.query.limit)
 
-   const startIndex = page * limit
-   const endIndex = (page + 1) * limit
+   if(!page && !limit){
+      page = 0;
+      limit = 5;
+   }
+   
+   let startIndex = page * limit
+   let endIndex = (page + 1) * limit
 
-   const resultIndex = data.slice(startIndex,endIndex)
+   let resultIndex = data.slice(startIndex,endIndex)
    res.json(resultIndex);
 });
 
