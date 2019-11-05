@@ -30,6 +30,9 @@ app.get('/', (req, res) => {
    res.json(resultIndex);
 }); */
 
+app.get("/allunits", (req, res) => {
+   res.json(data);
+}); 
 
 app.get("/units", (req, res) => {
    let page = parseInt(req.query.page)
@@ -44,7 +47,6 @@ app.get("/units", (req, res) => {
    let endIndex = page * limit
 
    let results = {} 
-   console.log(data.length);
    if(endIndex < data.length){
    results.next = {
       page : page + 1,
