@@ -76,6 +76,18 @@ app.get("/units/:id", (req, res) => {
    }
 });
 
+app.get("/unitsName/:name", (req, res) => {
+   const itemName = req.params.name;
+
+   const item = data.find(_item => _item.name == itemName);
+
+   if (item) {
+      res.json(item);
+   } else {
+      res.json({ message: `item ${itemName} doesn't exist`})
+   }
+});
+
 app.listen(process.env.PORT || PORT, () =>{
 console.log('Server http://localhost:'+ PORT + ' running.')  
 })
