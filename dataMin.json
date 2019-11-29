@@ -1,0 +1,954 @@
+[{
+    "fibre":"0.0124843694494",
+    "calorie":"2.66428774423",
+    "iron":"0.00847126110124",
+    "exercise":"",
+    "sodium":"0.139609236234",
+    "gm":"gr",
+    "name":"Akdeniz Gülü",
+    "img":"",
+    "id":29,
+    "cholesterol":"0.465506216696",
+    "unhealthy":"",
+    "carb":"0.398865968028",
+    "prot":"0.0269071403197",
+    "vita":"0.606234458259",
+    "potasium":"1.0698401421",
+    "calcium":"0.191278863233",
+    "fat":"0.0957786856128",
+    "vitc":"0.0236945648313",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"120.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Adet",
+            "gram":"60.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":3
+        }
+    ]
+},
+{
+    "fibre":"0.0329361179361",
+    "calorie":"2.22343980344",
+    "iron":"0.00353808353808",
+    "exercise":"",
+    "sodium":"1.9530958231",
+    "gm":"gr",
+    "name":"Akdeniz Makarna Salatası",
+    "img":"",
+    "id":30,
+    "cholesterol":"0.0390663390663",
+    "unhealthy":"",
+    "carb":"0.397383292383",
+    "prot":"0.0861216216216",
+    "vita":"1.6687960688",
+    "potasium":"0.908476658477",
+    "calcium":"0.438058968059",
+    "fat":"0.0307788697789",
+    "vitc":"0.0720515970516",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"203.5000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.0901057142857",
+    "calorie":"2.51071428571",
+    "iron":"0.0245338095238",
+    "exercise":"",
+    "sodium":"2.52607142857",
+    "gm":"gr",
+    "name":"Akdeniz Sürme Lezzet",
+    "img":"",
+    "id":31,
+    "cholesterol":"0.0333333333333",
+    "unhealthy":"",
+    "carb":"0.347816666667",
+    "prot":"0.105729761905",
+    "vita":"9.98583333333",
+    "potasium":"3.5094047619",
+    "calcium":"1.50428571429",
+    "fat":"0.0802119047619",
+    "vitc":"0.027369047619",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"28.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Adet",
+            "gram":"30.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":3
+        }
+    ]
+},
+{
+    "fibre":"0.00799333855799",
+    "calorie":"1.73540752351",
+    "iron":"0.00657931034483",
+    "exercise":"",
+    "sodium":"2.52184952978",
+    "gm":"gr",
+    "name":"Akdeniz Usulü Piliç",
+    "img":"",
+    "id":32,
+    "cholesterol":"0.614420062696",
+    "unhealthy":"",
+    "carb":"0.0279231974922",
+    "prot":"0.108460971787",
+    "vita":"1.09515673981",
+    "potasium":"2.03247648903",
+    "calcium":"0.150203761755",
+    "fat":"0.13287523511",
+    "vitc":"0.242551724138",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"160.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Köfte Kadar",
+            "gram":"30.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":3
+        }
+    ]
+},
+{
+    "fibre":"0.0091167192429",
+    "calorie":"1.96783280757",
+    "iron":"0.00460488958991",
+    "exercise":"",
+    "sodium":"3.24203470032",
+    "gm":"gr",
+    "name":"Akıtma",
+    "img":"",
+    "id":33,
+    "cholesterol":"0.400630914826",
+    "unhealthy":"",
+    "carb":"0.142479495268",
+    "prot":"0.0339976340694",
+    "vita":"1.11411671924",
+    "potasium":"0.883722397476",
+    "calcium":"0.467492113565",
+    "fat":"0.137823343849",
+    "vitc":"0.00345425867508",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"65.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Adet (Orta)",
+            "gram":"65.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":3
+        }
+    ]
+},
+{
+    "fibre":"0.00326164734438",
+    "calorie":"1.52704448431",
+    "iron":"0.00858387335939",
+    "exercise":"",
+    "sodium":"0.693490517948",
+    "gm":"gr",
+    "name":"Alabalık Buğulama",
+    "img":"",
+    "id":34,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.0386176643572",
+    "prot":"0.132007555406",
+    "vita":"0.19339093048",
+    "potasium":"0.641266433926",
+    "calcium":"0.0517236199368",
+    "fat":"0.0881275612366",
+    "vitc":"0.0934082035496",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"210.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Porsiyon (Büyük)",
+            "gram":"300.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Adet (Orta)",
+            "gram":"150.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":4
+        }
+    ]
+},
+{
+    "fibre":"0.0",
+    "calorie":"1.2",
+    "iron":"0.00654",
+    "exercise":"",
+    "sodium":"0.67",
+    "gm":"gr",
+    "name":"Alabalık (Füme)",
+    "img":"",
+    "id":35,
+    "cholesterol":"0.59",
+    "unhealthy":"",
+    "carb":"0.0",
+    "prot":"0.21764",
+    "vita":"0.14",
+    "potasium":"3.46",
+    "calcium":"0.13",
+    "fat":"0.09559",
+    "vitc":"0.02408",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"150.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Adet (Büyük)",
+            "gram":"60.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Adet (Orta)",
+            "gram":"30.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":4
+        }
+    ]
+},
+{
+    "fibre":"0.0040202020202",
+    "calorie":"2.38812121212",
+    "iron":"0.00886666666667",
+    "exercise":"",
+    "sodium":"1.57208080808",
+    "gm":"gr",
+    "name":"Alabalık Kızartma",
+    "img":"",
+    "id":36,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.0842814141414",
+    "prot":"0.158368282828",
+    "vita":"0.0361616161616",
+    "potasium":"0.135414141414",
+    "calcium":"0.0303838383838",
+    "fat":"0.153758787879",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"245.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Adet (Orta)",
+            "gram":"245.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Yarım",
+            "gram":"125.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":4
+        }
+    ]
+},
+{
+    "fibre":"0.036",
+    "calorie":"0.27",
+    "iron":"0.004",
+    "exercise":"",
+    "sodium":"0.2",
+    "gm":"gr",
+    "name":"Alabaş (Yer Lahanası)",
+    "img":"",
+    "id":37,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.062",
+    "prot":"0.017",
+    "vita":"0.36",
+    "potasium":"3.5",
+    "calcium":"0.24",
+    "fat":"0.001",
+    "vitc":"0.62",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"150.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.037291078155",
+    "calorie":"1.58797135979",
+    "iron":"0.0223145615889",
+    "exercise":"",
+    "sodium":"0.305539774812",
+    "gm":"gr",
+    "name":"Alaca Çorbası",
+    "img":"",
+    "id":38,
+    "cholesterol":"0.164354604307",
+    "unhealthy":"",
+    "carb":"0.28932801926",
+    "prot":"0.101504947079",
+    "vita":"0.783263824665",
+    "potasium":"3.8920083381",
+    "calcium":"0.550473789287",
+    "fat":"0.0726241907782",
+    "vitc":"0.111131104946",
+    "birim":[
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"130.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Kase (Orta)",
+            "gram":"150.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Kase (Büyük)",
+            "gram":"200.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Porsiyon (Küçük)",
+            "gram":"150.0000",
+            "selected":"false",
+            "i":4
+        },
+        {
+            "title":"Kepçe",
+            "gram":"100.0000",
+            "selected":"false",
+            "i":5
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":6
+        }
+    ]
+},
+{
+    "fibre":"0.056",
+    "calorie":"3.86",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.002",
+    "gm":"gr",
+    "name":"Alaska Frigo Antep Fıstıklı",
+    "img":"",
+    "id":39,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.227",
+    "prot":"0.08",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.28",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"60.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.03",
+    "calorie":"3.18",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.002",
+    "gm":"gr",
+    "name":"Alaska Frigo Bitter",
+    "img":"",
+    "id":40,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.374",
+    "prot":"0.034",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.164",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Porsiyon (1 Adet)",
+            "gram":"60.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.017",
+    "calorie":"3.16",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.0",
+    "gm":"gr",
+    "name":"Alaska Frigo Karamelli",
+    "img":"",
+    "id":41,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.35",
+    "prot":"0.055",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.168",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"47.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.032",
+    "calorie":"3.47",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.003",
+    "gm":"gr",
+    "name":"Alaska Frigo Mozaik",
+    "img":"",
+    "id":42,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.414",
+    "prot":"0.057",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.169",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"60.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.021",
+    "calorie":"3.21",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.003",
+    "gm":"gr",
+    "name":"Alaska Frigo Sütlü",
+    "img":"",
+    "id":43,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.383",
+    "prot":"0.04",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.163",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"60.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.021",
+    "calorie":"3.01",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.0",
+    "gm":"gr",
+    "name":"Alaska Stick Misket Limonlu",
+    "img":"",
+    "id":44,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.294",
+    "prot":"0.05",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.178",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"19.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.005",
+    "calorie":"5.16",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.0",
+    "gm":"gr",
+    "name":"Albeni",
+    "img":"",
+    "id":45,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.63",
+    "prot":"0.056",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.266",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"40.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.0018",
+    "calorie":"3.09",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.0005",
+    "gm":"gr",
+    "name":"Algida Ekstra Karamelli Dondurma (Çubuk)",
+    "img":"",
+    "id":46,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.3272",
+    "prot":"0.0272",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.1818",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"55.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.01403",
+    "calorie":"3.1578",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.00122",
+    "gm":"gr",
+    "name":"Algida Frigola Dondurma",
+    "img":"",
+    "id":47,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.3157",
+    "prot":"0.0438",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.1929",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"57.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.004",
+    "calorie":"1.7",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.001",
+    "gm":"gr",
+    "name":"Algida Keyıf Kakao-Vanilya-Çilek",
+    "img":"",
+    "id":48,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.26",
+    "prot":"0.025",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.064",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Porsiyon (Büyük)",
+            "gram":"100.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"60.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Top",
+            "gram":"30.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Top (Büyük)",
+            "gram":"50.0000",
+            "selected":"false",
+            "i":4
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":5
+        }
+    ]
+},
+{
+    "fibre":"0.005",
+    "calorie":"1.7",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.001",
+    "gm":"gr",
+    "name":"Algida Keyıf Kakao-Vanilya-Fıstık",
+    "img":"",
+    "id":49,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.26",
+    "prot":"0.025",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.067",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Porsiyon (Büyük)",
+            "gram":"100.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"60.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Top",
+            "gram":"30.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Top (Büyük)",
+            "gram":"50.0000",
+            "selected":"false",
+            "i":4
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":5
+        }
+    ]
+},
+{
+    "fibre":"0.003",
+    "calorie":"1.7",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.001",
+    "gm":"gr",
+    "name":"Algida Keyıf Sürpriz",
+    "img":"",
+    "id":50,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.26",
+    "prot":"0.025",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.07",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Porsiyon (Büyük)",
+            "gram":"100.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Porsiyon (Orta)",
+            "gram":"60.0000",
+            "selected":"false",
+            "i":2
+        },
+        {
+            "title":"Top",
+            "gram":"30.0000",
+            "selected":"false",
+            "i":3
+        },
+        {
+            "title":"Top (Büyük)",
+            "gram":"50.0000",
+            "selected":"false",
+            "i":4
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":5
+        }
+    ]
+},
+{
+    "fibre":"0.0",
+    "calorie":"3.19",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.0",
+    "gm":"gr",
+    "name":"Algida Klasik Fıstıklı Dondurma (Çubuk)",
+    "img":"",
+    "id":51,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.2978",
+    "prot":"0.0319",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.2127",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"47.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+},
+{
+    "fibre":"0.0",
+    "calorie":"3.19",
+    "iron":"0.0",
+    "exercise":"",
+    "sodium":"0.00085",
+    "gm":"gr",
+    "name":"Algida Klasik Kakaolu Dondurma (Çubuk)",
+    "img":"",
+    "id":52,
+    "cholesterol":"0.0",
+    "unhealthy":"",
+    "carb":"0.276",
+    "prot":"0.0319",
+    "vita":"0.0",
+    "potasium":"0.0",
+    "calcium":"0.0",
+    "fat":"0.191",
+    "vitc":"0.0",
+    "birim":[
+        {
+            "title":"Adet",
+            "gram":"47.0000",
+            "selected":"true",
+            "i":1
+        },
+        {
+            "title":"Gram",
+            "gram":"1.0000",
+            "selected":"false",
+            "i":2
+        }
+    ]
+}]

@@ -5,6 +5,8 @@ const fs = require('fs')
 const bodyParser = require('body-parser')
 
 const data = require('./data.json')
+const dataMin = require('./dataMin.json')
+
 app.use(cors())
 app.use(bodyParser.json())
 const PORT = 8080
@@ -32,6 +34,10 @@ app.get('/', (req, res) => {
 
 app.get("/allunits", (req, res) => {
    res.json(data);
+}); 
+
+app.get("/unitsmin", (req, res) => {
+   res.json(dataMin);
 }); 
 
 app.get("/units", (req, res) => {
