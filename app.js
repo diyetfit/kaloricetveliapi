@@ -6,6 +6,7 @@ const bodyParser = require('body-parser')
 
 const data = require('./data.json')
 const dataMin = require('./dataMin.json')
+const dataallminified = require('./dataminified.json')
 
 app.use(cors())
 app.use(bodyParser.json())
@@ -15,7 +16,9 @@ const PORT = 8080
 app.get('/', (req, res) => {
     res.end('Server running')
 })
-
+app.get('/allunitsmin', (req, res) => {
+   res.json(dataallminified);
+})
 /* app.get("/units", (req, res) => {
    let page = parseInt(req.query.page)
    let limit = parseInt(req.query.limit)
